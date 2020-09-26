@@ -1,0 +1,10 @@
+*.log
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+results/*
+.DS_Store
+.idea
+image-files/
+usefule-commands/
